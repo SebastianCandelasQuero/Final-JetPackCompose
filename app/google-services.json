@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "737077396439",
+    "firebase_url": "https://reloj-mundial-f29a5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "reloj-mundial-f29a5",
+    "storage_bucket": "reloj-mundial-f29a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737077396439:android:18f70a0d5b5eca084a8192",
+        "android_client_info": {
+          "package_name": "com.example.final_jetpackcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNm9RC3aY80xf6xiTWNkqJx9HNzpTizlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737077396439:android:e2ec99d504e3be834a8192",
+        "android_client_info": {
+          "package_name": "com.example.prueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNm9RC3aY80xf6xiTWNkqJx9HNzpTizlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
